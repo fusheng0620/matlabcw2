@@ -136,3 +136,4 @@ temp_prediction(a);
 % However, there are certain limitations. The accuracy of the MCP9700A is affected by voltage noise, and although resistor filtering was used, precision may still be impacted. 
 % The LED control logic was relatively simple and limited to three states. 
 % In the future, the system could be improved by implementing digital filtering techniques such as a moving average or low-pass filter to enhance stability in temperature readings. Furthermore, the system could be expanded with additional environmental sensors. These improvements would make the system more robust, scalable, and applicable in real-world scenarios.
+% new content;;;;
