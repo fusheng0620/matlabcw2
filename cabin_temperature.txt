@@ -1,0 +1,29 @@
+--- Cabin Temperature Logs ---
+Record time: 26/04/2025
+Location - Nottingham 
+
+Minute 0 	 Time:   0 s
+Temperature:    24.29°C
+Minute 1 	 Time:  60 s
+Temperature:    27.22°C
+Minute 2 	 Time: 120 s
+Temperature:    25.27°C
+Minute 3 	 Time: 180 s
+Temperature:    24.78°C
+Minute 4 	 Time: 240 s
+Temperature:    24.78°C
+Minute 5 	 Time: 300 s
+Temperature:    24.78°C
+Minute 6 	 Time: 360 s
+Temperature:    24.78°C
+Minute 7 	 Time: 420 s
+Temperature:    24.78°C
+Minute 8 	 Time: 480 s
+Temperature:    24.78°C
+Minute 9 	 Time: 540 s
+Temperature:    24.78°C
+
+ statistics: 
+Minimum temperature: 24.29 °C
+Maximum temperature: 28.69 °C
+Mean temp: 25.02 °C
