@@ -39,7 +39,7 @@ voltages = zeros(1, numPoints);
 temperatures = zeros(1, numPoints);
 timeStamps = zeros(1, numPoints);
 
-disp('Starting to collect temperature data...');
+disp('Starting to collect temperature data......');
 
 for i = 1:numPoints
     v = readVoltage(a, analogPin);           % read Voltage 
